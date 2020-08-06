@@ -1,3 +1,46 @@
+# React.js Advice App 
+
+  
+
+🚀💪🏽This project is deployed at: [https://sids-advice-app.netlify.app](https://sids-advice-app.netlify.app/)
+
+A simple responsive web-app built in react.js that fetches the best advice ever. Data used in this app is courtesy  from Advice Slip API: [https://api.adviceslip.com/](https://api.adviceslip.com/) *
+
+**The api endpoint only updates about once every 5 seconds or so, so spamming clicks will not render new advice until the endpoint is done updating.*
+
+  
+
+## Project purpose and scope
+
+- Deploy and polish an old project sitting in local archives 
+
+- Use create-react-app to bootstrap react boilerplate
+
+- use Fetch API to get data from API 
+
+- Learn and Impliment React Lifecylce methods, state, and class-based components
+
+- Improve on and practice CSS princlplals
+
+
+## **Packages and technologies used**
+
+- **HTML/CSS/JS**:  edit app and create structure 
+
+- **React.js**: front-end javascript framework 
+
+- **Fetch-API:** built in network request API in javascript that returns promises
+
+- **Netlify:** deployment cli and site hosting
+
+  
+
+## App demo
+
+  
+
+![stack Overflow](https://i.imgur.com/ldwOTlq.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
