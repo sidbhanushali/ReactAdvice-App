@@ -39,7 +39,7 @@ getAdvice = async() => {
                     <h1 className='heading'> {advice} </h1>
                     <button onClick={this.getAdvice} className='button'> <span>Get Advice! Wait<span role="img" aria-label="hand">✋🏽</span> at least 5 seconds<span role="img" aria-label="time">⏳</span> </span> </button>
                     <br/>
-                    <p> <a href='https://github.com/sidbhanushali/'>Siddharth Bhanushali © </a> </p>
+                    <p> <a href='https://github.com/sidbhanushali/'>Siddharth Bhanushali </a> </p>
                 </div>
              </div>
         )
